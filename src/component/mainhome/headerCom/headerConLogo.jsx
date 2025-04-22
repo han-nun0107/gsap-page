@@ -16,7 +16,7 @@ function HeaderConLogo() {
           no-underline
         "
       >
-        YouTube Portfolio
+        Gsap-Page
       </a>
     </div>
   );
